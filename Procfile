@@ -1,1 +1,1 @@
-web: train run
+web: NODE_ENV=production train run
