@@ -5,9 +5,9 @@
         "secret": "boggle at the situation"
     },
     "request_timeout": 1000,
-    "port": "{{PORT}}",
+    "port": "3000",
     "mongodb": {
-        "uri": "{{MONGOLAB_URI}}"
+        "uri": "rickydavila:Frodobd4409@paulo.mongohq.com:10063/app19030552"
     },
     "character_encoding": "utf-8"
 }
